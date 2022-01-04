@@ -14,7 +14,7 @@
     
     // Initiate the wowjs
     $(window).ready(function() {
-    new WOW().init()
+        new WOW().init()
     });
     
     
